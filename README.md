@@ -34,7 +34,7 @@ Tambien estamos estudiando:
 
   [web del colegio](https://sanviatorvalladolid.com/)
 
-  #####Instrucciones para crear un fichero
+  Instrucciones para crear un fichero
   1. Sitúate en el directorio que quieras ``cm<directorio>``
   2. ejecuta el comando ``touch<calculadora.java>``
   separadores
