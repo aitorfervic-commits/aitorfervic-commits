@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola nenes 🙆‍♂️🙆‍♂️🙆‍♂️
 
 <!--
 **aitorfervic-commits/aitorfervic-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aitor Fernández Vicente 
+## Alumno de bases de datos
+### #basesdedatos 🤓☝
+###### miguel apruebame pls 
+
+Soy **alumno** del *colegio* ***San Viator***
+
+Estamos aprendiendo:
+1. Programación
+2. Bases de datos
+3. IPE
+4. Entornos de desarrollo
+
+Tambien estamos estudiando:
+- Diagramas entidad relación
+- bucles
+
+  [web del colegio](https://sanviatorvalladolid.com/)
